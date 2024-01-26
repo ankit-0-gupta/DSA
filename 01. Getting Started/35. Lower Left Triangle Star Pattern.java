@@ -1,12 +1,14 @@
-Sample Input :
-5
+// Lower Left Triangle Star Pattern.
+
+// Sample Input :
+// 5
   
-Sample Output :
-* 
-* * 
-* * * 
-* * * * 
-* * * * * 
+// Sample Output :
+// * 
+// * * 
+// * * * 
+// * * * * 
+// * * * * * 
 
 
 import java.io.*;
