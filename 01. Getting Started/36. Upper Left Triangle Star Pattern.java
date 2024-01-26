@@ -1,14 +1,16 @@
-Sample Input :
-7
+// Upper Left Triangle Star Pattern.
+
+// Sample Input :
+// 7
   
-Sample Output :
-*******
-******
-*****
-****
-***
-**
-*
+// Sample Output :
+// *******
+// ******
+// *****
+// ****
+// ***
+// **
+// *
 
 
 import java.io.*;
