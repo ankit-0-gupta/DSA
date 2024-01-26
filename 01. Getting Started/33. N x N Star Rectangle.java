@@ -1,3 +1,5 @@
+// N x N Star Rectangle.
+
 // Take n as an integer input. Then print nxn star rectangle as mentioned below.
 // In each line, n stars should be printed.
 // And there should be n such lines.
