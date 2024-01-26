@@ -1,3 +1,5 @@
+// Right Triangle Number Pattern.
+
 // Sample Input : 
 // 5
 
