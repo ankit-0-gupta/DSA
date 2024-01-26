@@ -1,4 +1,4 @@
-https://www.geeksforgeeks.org/problems/pattern-printing1347/1
+// https://www.geeksforgeeks.org/problems/pattern-printing1347/1
 
 
 class Solution
