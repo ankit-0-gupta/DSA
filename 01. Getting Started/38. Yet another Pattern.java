@@ -4,7 +4,7 @@
 import java.util.*;
 public class Solution
 {
-	public static void upperRightTriangle(int n)
+	public static void upperRightTrianglePattern(int n)
 	{
 		int nsp = 0;
 		int nst = n;
@@ -31,7 +31,7 @@ public class Solution
 		for(int i = 1; i <= t; i++)
 		{
 			int n = scn.nextInt();
-			upperRightTriangle(n);
+			upperRightTrianglePattern(n);
 		}
 	}
 }
