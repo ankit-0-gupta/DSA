@@ -1,3 +1,5 @@
+// Lower Right Triangle Star Pattern.
+
 // Sample Input :
 // 5
   
