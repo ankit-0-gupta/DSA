@@ -1,3 +1,5 @@
+// Star Grid.
+
 // Sample Input 1 :
 // 3 4
 
