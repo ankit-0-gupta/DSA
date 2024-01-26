@@ -1,12 +1,12 @@
-Sample Input :
-5
+// Sample Input :
+// 5
   
-Sample Output :
-    *
-   **
-  ***
- ****
-*****
+// Sample Output :
+//     *
+//    **
+//   ***
+//  ****
+// *****
 
 
 import java.io.*;
