@@ -1,3 +1,5 @@
+// Yet another Pattern.
+
 // https://www.codingninjas.com/studio/problems/give-me-triangle_893275
 
 
