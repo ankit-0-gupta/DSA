@@ -1,20 +1,20 @@
-Sample Input 1 :
-3 4
+// Sample Input 1 :
+// 3 4
 
-Sample Output 1 : 
-****
-****
-****
+// Sample Output 1 : 
+// ****
+// ****
+// ****
 
-Sample Input 2 :
-5 6
+// Sample Input 2 :
+// 5 6
 
-Sample Output 2 : 
-******
-******
-******
-******
-******
+// Sample Output 2 : 
+// ******
+// ******
+// ******
+// ******
+// ******
 
 
 import java.util.*;
