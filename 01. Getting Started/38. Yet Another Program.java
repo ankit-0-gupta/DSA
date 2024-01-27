@@ -4,7 +4,7 @@
 
 
 import java.util.*;
-public class Main 
+public class Solution
 {
     public static void upperRightTriangle(int n)
     {
